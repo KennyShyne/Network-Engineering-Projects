@@ -3,9 +3,10 @@
 
 <h2>Lab I Created With Packet Tracer</h2>
 <p align="center">
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/2a0b082e-cc1a-48e0-b3ac-d13d1f9eb57d"/>
 <br />
 <br />
+
 
 <h2>Lab Description</h2>
 Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
