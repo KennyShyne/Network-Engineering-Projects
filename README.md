@@ -1,7 +1,7 @@
 # Network-Engineering-Projects
-<h2>I'm a Cisco Certified Engineer, I hold the CCNA 200 - 301 certificate. Below is what i learned and projects i have created</h2> 
+<h2>I'm a Cisco Certified Engineer, I hold the CCNA 200 - 301 certificate. Below is what i learned and projects i have created.</h2> 
 
-<h2>Lab I Created With Packet Tracer</h2>
+<h2>Lab I Created using Packet Tracer</h2>
 <p align="center">
 <img src="https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/2a0b082e-cc1a-48e0-b3ac-d13d1f9eb57d"/>
 <br />
@@ -9,7 +9,21 @@
 
 
 <h2>Lab Description</h2>
-Project consists of a simple PowerShell script that walks the user through "zeroing out" (wiping) any drives that are connected to the system. The utility allows you to select the target disk and choose the number of passes that are performed. The PowerShell script will configure a diskpart script file based on the user's selections and then launch Diskpart to perform the disk sanitization.
+These are the ideas i used when creating my project:
+
+- 3 OSPF Areas and OSPF Routes to all parts of the network.
+- IP/Variable Length Subnets to be assigned. Backbone and Multi-layer switches to have a different IP Address range.
+- All servers should ping each other. 
+- IPv6 to be assigned on 2 of all end user PCs and ping should all so be successiful.
+- DHCP practises with the same IP ranges as static assigned.
+- Hostname, MOTD Banner, Passwords and Secrets the be enabled.
+- Secret to be encrypted using md-5.
+- NTP enabled on all servers.
+- Telnet to be enabled on all switches.
+- ACLs for security and filtering purposes.
+- 2 VLANs on each switch.
+- Trunksports using 802.1q and Etherchannels on 4 ports.
+- Port Address Translation. 
 <br />
 
 <h1>Cisco Commands Learned</h1>
