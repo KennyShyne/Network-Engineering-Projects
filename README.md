@@ -1,7 +1,7 @@
 # Network-Engineering-Projects
 I'm a Cisco Certified Engineer, I hold the CCNA 200 - 301 certificate. Below is what i learned and projects i have created.
 
-<h2>Lab I Created using Packet Tracer</h2>
+<h2>Packet Tracer Lab I Created </h2>
 <p align="center">
 <img src="https://github.com/KennyShyne/CyberSecurity-Projects/assets/102590763/2a0b082e-cc1a-48e0-b3ac-d13d1f9eb57d"/>
 <br />
